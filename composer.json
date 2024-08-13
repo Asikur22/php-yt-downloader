@@ -1,5 +1,5 @@
 {
-	"name" : "asikur22/php-youtube-downloader",
+	"name" : "Asikur22/php-yt-downloader",
 	"description" : "Download Youtube video with php.",
 	"license" : "MIT",
 	"require" : {
