@@ -1,0 +1,11 @@
+{
+	"name" : "asikur22/php-youtube-downloader",
+	"description" : "Download Youtube video with php.",
+	"license" : "MIT",
+	"require" : {
+		"php" : ">=7.0"
+	},
+	"require" : {
+		"pira/ytdl" : "^1.7"
+	}
+}
